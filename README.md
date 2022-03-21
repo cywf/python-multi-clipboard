@@ -2,7 +2,7 @@
 
 - Author: Kyle Parisher (cywf)
 - Date: 03-07-22
-- Email: cywf.dev@icloud.com
+- Email: skoll.wfpk@pm.me
 - Github: https://github.com/cywf
 ---
 ## How to use multiclip.py
