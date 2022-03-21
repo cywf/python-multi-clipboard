@@ -1,9 +1,5 @@
 # Python application that lets you store multiple words/data in a clipboard
 
-- Author: Kyle Parisher (cywf)
-- Date: 03-07-22
-- Email: skoll.wfpk@pm.me
-- Github: https://github.com/cywf
 ---
 ## How to use multiclip.py
 #### 1) Create a key (_you can create as many keys as you like_) to save your data to:
